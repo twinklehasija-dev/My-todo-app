@@ -1,0 +1,40 @@
+[
+  {
+    "id": "todo-db49b0e5",
+    "title": "Push Test via Python POST",
+    "completed": false,
+    "priority": "high",
+    "category": "API",
+    "dueDate": "",
+    "createdAt": "2026-10-26T17:44:32.870689",
+    "updatedAt": "2026-10-26T19:06:51.077630"
+  },
+  {
+    "id": "todo-1",
+    "title": "Welcome to your Clean To-Do App!",
+    "completed": false,
+    "priority": "high",
+    "category": "Getting Started",
+    "dueDate": "2026-10-30",
+    "createdAt": "2026-10-26T12:00:00.000Z",
+    "updatedAt": "2026-10-26T19:06:53.512986"
+  },
+  {
+    "id": "todo-2",
+    "title": "Test pushing a new task using the POST API method",
+    "completed": false,
+    "priority": "medium",
+    "category": "API",
+    "dueDate": "2026-10-28",
+    "createdAt": "2026-10-26T12:05:00.000Z"
+  },
+  {
+    "id": "todo-3",
+    "title": "Inspect the live GET and POST API activity drawer below",
+    "completed": true,
+    "priority": "low",
+    "category": "API",
+    "dueDate": "2026-10-27",
+    "createdAt": "2026-10-26T12:10:00.000Z"
+  }
+]
